@@ -6,6 +6,17 @@
 
 ## 📖 书源导入地址 
 
+```
+国内导入地址
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/comic/comicFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Movie/MovieFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Music/MusicFileName.txt
+https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Novel/NovelFileName.txt
+
+```
+
+
+
 ```tex
 导入地址:
 https://github.com/Fantuan-cell/XsRead/tree/main/Novel
