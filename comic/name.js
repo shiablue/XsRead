@@ -1,7 +1,8 @@
 let fs = require('fs');
 // fs.writeFile('./FileName.txt', data, options, callback);
 let readDir = fs.readdirSync("./");
-let url = "https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/"
+
+let url = "https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/"
 let tag = 'comic';
 url = url +tag;
 let name = "";

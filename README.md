@@ -8,10 +8,10 @@
 
 ```
 国内导入地址
-https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/comic/comicFileName.txt
-https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Movie/MovieFileName.txt
-https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Music/MusicFileName.txt
-https://fastly.jsdelivr.net/gh/Fantuan-cell/XsRead@main/Novel/NovelFileName.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/comic/comicFileName.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Movie/MovieFileName.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Music/MusicFileName.txt
+https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Novel/NovelFileName.txt
 
 ```
 
