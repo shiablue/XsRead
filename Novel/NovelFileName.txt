@@ -35,3 +35,4 @@ https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/N
 https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Novel/%E9%A1%B6%E7%82%B9%E5%B0%8F%E8%AF%B4api.xbs
 https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Novel/%E9%A5%AD%E9%A5%AD%E8%AE%BA%E5%9D%9B.xbs
 https://ghproxy.com/https://raw.githubusercontent.com/Fantuan-cell/XsRead/main/Novel/%F0%9F%91%BE%E4%B9%90%E5%85%94api.xbs
+
