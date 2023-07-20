@@ -1,9 +1,3 @@
-
-##  :dart:[点击加入交流群](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=1tx5fU&from=181074&biz=ka#/pc) 
-- :sunrise:QQ频道搜索：【香色闺阁】或 扫码加入频道！
-
-![](png/qq.png)
-
 ## 📖 书源导入地址 
 
 ```
